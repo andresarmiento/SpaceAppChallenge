@@ -1,0 +1,6 @@
+C:\Users\Administrador\Desktop\Bootstrapping of Space Industry\WEB\WebAdministration\WebServiceClient\bin\Debug\WebServiceClient.dll.config
+C:\Users\Administrador\Desktop\Bootstrapping of Space Industry\WEB\WebAdministration\WebServiceClient\bin\Debug\WebServiceClient.dll
+C:\Users\Administrador\Desktop\Bootstrapping of Space Industry\WEB\WebAdministration\WebServiceClient\bin\Debug\WebServiceClient.pdb
+C:\Users\Administrador\Desktop\Bootstrapping of Space Industry\WEB\WebAdministration\WebServiceClient\obj\Debug\WebServiceClient.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\Bootstrapping of Space Industry\WEB\WebAdministration\WebServiceClient\obj\Debug\WebServiceClient.dll
+C:\Users\Administrador\Desktop\Bootstrapping of Space Industry\WEB\WebAdministration\WebServiceClient\obj\Debug\WebServiceClient.pdb

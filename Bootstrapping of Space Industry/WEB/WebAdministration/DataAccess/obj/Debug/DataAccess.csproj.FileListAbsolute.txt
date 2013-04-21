@@ -1,0 +1,5 @@
+C:\Users\Administrador\Desktop\Bootstrapping of Space Industry\WEB\WebAdministration\DataAccess\bin\Debug\DataAccess.dll.config
+C:\Users\Administrador\Desktop\Bootstrapping of Space Industry\WEB\WebAdministration\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\Administrador\Desktop\Bootstrapping of Space Industry\WEB\WebAdministration\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\Administrador\Desktop\Bootstrapping of Space Industry\WEB\WebAdministration\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\Administrador\Desktop\Bootstrapping of Space Industry\WEB\WebAdministration\DataAccess\obj\Debug\DataAccess.pdb
