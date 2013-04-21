@@ -26,7 +26,7 @@ var Imagen2:Texture2D;
 var Imagen3:Texture2D;
 var textAreaString = "name";
 var textAreaString2 = "pass";
-
+//webconect other = (webconect) go.GetComponent(typeof(webconect));
 
 function OnGUI(){
 
@@ -38,13 +38,14 @@ function OnGUI(){
 	textAreaString2 = GUI.TextArea (Rect (x4, y5, ancho2, alto2), textAreaString2);
 
 	if(GUI.Button (Rect(x1,y,ancho,alto),Imagen1)){
-
-	   var other : webconect = gameObject.GetComponent('webconect');
-		//
+	
+	
+		
+		/*//
 		if(other.prueba(textAreaString,textAreaString2))
 		{
 			Application.LoadLevel("Level1");
-		}
+		}*/
 	}
 	
 	if(GUI.Button (Rect(x2,y,ancho,alto),Imagen2)){

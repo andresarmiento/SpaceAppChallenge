@@ -3,18 +3,9 @@ using System.Collections;
 
 public class webconect : MonoBehaviour
 {
-
-	// Use this for initialization
-	void Start ()
-	{
+	public webconect()
+	{}
 	
-	}
-	
-	// Update is called once per frame
-	void Update ()
-	{
-	
-	}
 	public bool prueba(string User ,string Password)
 	{ 
 		WebServiceClient.WebServiceConsult WebService = new WebServiceClient.WebServiceConsult();
